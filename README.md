@@ -83,5 +83,5 @@ This project presents an interactive **Sales Dashboard** created using **Power B
 
 
 ## 🖼️ Dashboard Preview
-![Overview](dashboard_preview.png)
-![key_Metrics](dashboard_preview.png)
+![Overview](SS/Overview.png)
+![key_Metrics](SS/key_Metrics.png)
